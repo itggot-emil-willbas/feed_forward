@@ -1,4 +1,5 @@
-1. Spara filen
+0. Spara filen
+1. git add *
 2. (i rätt mapp i terminalen): git commit * -m "Ett meddelande"
 3. git push origin master (filen läggs upp.)
 
